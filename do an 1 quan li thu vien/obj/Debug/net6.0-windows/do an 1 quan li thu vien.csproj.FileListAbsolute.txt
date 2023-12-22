@@ -1,0 +1,67 @@
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.exe
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.dll.config
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.deps.json
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.runtimeconfig.json
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.dll
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.pdb
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.Form1.resources
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.quanlichung.resources
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.quanlinhanvien.resources
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.qldocgia.resources
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.qlmuonsach.resources
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.qlvipham.resources
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.quanlisach.resources
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.theodoimuontra.resources
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.uudai.resources
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.AssemblyInfo.cs
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.csproj.CopyComplete
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.dll
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\refint\do an 1 quan li thu vien.dll
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.pdb
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.genruntimeconfig.cache
+C:\Users\PC\Desktop\do an 1\Do Thanh Luan - Do Dieu Linh - Tran Duc Phong\do an 1 quan li thu vien\obj\Debug\net6.0-windows\ref\do an 1 quan li thu vien.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.exe
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.dll.config
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.deps.json
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.runtimeconfig.json
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\do an 1 quan li thu vien.pdb
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.Form1.resources
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.quanlichung.resources
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.quanlinhanvien.resources
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.qldocgia.resources
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.qlmuonsach.resources
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.qlvipham.resources
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.quanlisach.resources
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.theodoimuontra.resources
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.uudai.resources
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.AssemblyInfo.cs
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.csproj.CopyComplete
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\refint\do an 1 quan li thu vien.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.pdb
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do an 1 quan li thu vien.genruntimeconfig.cache
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\ref\do an 1 quan li thu vien.dll
+C:\Users\PC\Desktop\do an 1\doan1\do an 1 quan li thu vien\obj\Debug\net6.0-windows\do_an_1_quan_li_thu_vien.Properties.Resources.resources
